@@ -1,4 +1,5 @@
-{
+export const questionAnswers = [
+    {
         "question": "What are the schemes suitable for the district of Thiruvallur?",
         "answer": "As the region has the following demographics: - Age Group <19:     - Total: 903681 (Male: 464335, Female: 439346)     - Suggested Schemes: Post Office Savings Account (SB), Recurring Deposit (RD), National Savings Certificate (NSC), Public Provident Fund (PPF). - Age Group 20-59:     - Total: 2213832 (Male: 1107028, Female: 1117028)     - Suggested Schemes: Mahila Samman Savings Certificate, Recurring Deposit (RD), Public Provident Fund (PPF), Pradhan Mantri Jan Dhan Yojana (PMJDY). - Age Group 60+:     - Total: 314765 (Male: 152628, Female: 162137)     - Suggested Schemes: Senior Citizen Savings Scheme (SCSS), Public Provident Fund (PPF), Monthly Income Scheme (MIS).     Additional Recommendations:         - For Farmers: PM-KISAN for income support, PMFBY for crop insurance, SHC for soil health improvement.         - For Women: Mahila Samman Savings Certificate for financial security and empowerment.         - For Men: Kisan Credit Card (KCC) for farming and other rural schemes."
     },
@@ -126,3 +127,4 @@
         "question": "What are the schemes suitable for the district of Tiruppur?",
         "answer": "As the region has the following demographics: - Age Group <19:     - Total: 554987 (Male: 283008, Female: 271979)     - Suggested Schemes: Post Office Savings Account (SB), Recurring Deposit (RD), National Savings Certificate (NSC), Public Provident Fund (PPF). - Age Group 20-59:     - Total: 1484039 (Male: 741504, Female: 742535)     - Suggested Schemes: Mahila Samman Savings Certificate, Recurring Deposit (RD), Public Provident Fund (PPF), Pradhan Mantri Jan Dhan Yojana (PMJDY). - Age Group 60+:     - Total: 264900 (Male: 132136, Female: 132764)     - Suggested Schemes: Senior Citizen Savings Scheme (SCSS), Public Provident Fund (PPF), Monthly Income Scheme (MIS).     Additional Recommendations:         - For Farmers: PM-KISAN for income support, PMFBY for crop insurance, SHC for soil health improvement.         - For Women: Mahila Samman Savings Certificate for financial security and empowerment.         - For Men: Kisan Credit Card (KCC) for farming and other rural schemes."
     }
+]
